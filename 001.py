@@ -1,2 +1,2 @@
-textValue = input("what is your name?: ")
-print("hello",textValue)
+name = input("what is your name?: ")
+print("hello",name)
